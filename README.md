@@ -12,8 +12,10 @@ Open localhost:3000 in browser
 
 App features:
   * Add a form to upload data and image
-  * First set the coordinates with two input fields in the form. Later you can do it by clicking (Leaflet etc.) map or get the coordinates from EXIF data.
-    * [EXIF](https://github.com/gomfunkel/node-exif)
+    * Study public/data.json to and add the appropriate fields to the form.
+    * You can first set the coordinates by adding two input fields in the form. Later you can do it by clicking (Leaflet etc.) map or get the coordinates from EXIF data.
+      * [EXIF](https://github.com/gomfunkel/node-exif)
+      * Take pictures with your phone to get images with EXIF-data
   * Upload image
     * send as [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData)
     * receive with [_multer_](https://github.com/expressjs/multer)
