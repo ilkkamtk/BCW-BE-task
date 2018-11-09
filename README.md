@@ -23,3 +23,8 @@ App features:
     * [_sharp_](https://github.com/lovell/sharp)
   * Save the data from the form and image urls to database
   * Display the updated data on the frontend
+  * Update stored data
+  * Delete stored data and files
+  * Search entries by some property
+  * Authentication
+  * https redirection
