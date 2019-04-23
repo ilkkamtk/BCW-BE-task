@@ -1,5 +1,7 @@
 # Basic Concepts of Web Applications - Back end task
 
+* Download this repo as zip
+
 How to run:
 
 `npm install`
